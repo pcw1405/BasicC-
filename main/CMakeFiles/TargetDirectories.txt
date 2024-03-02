@@ -1,0 +1,3 @@
+C:/coding/cPlus/main/CMakeFiles/main.dir
+C:/coding/cPlus/main/CMakeFiles/edit_cache.dir
+C:/coding/cPlus/main/CMakeFiles/rebuild_cache.dir
